@@ -1,0 +1,10 @@
+summa
+pandas
+numpy
+gensim
+PyPDF2
+pymystem3
+packaging
+FrenchLefffLemmatizer
+yake
+python-rake
